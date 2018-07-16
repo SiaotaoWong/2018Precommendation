@@ -49,3 +49,5 @@ http://gra.hnu.edu.cn/info/1075/4434.htm <br/>
 <h2>211</h2>
 湖南师范大学 校友会排名68<br/>
 http://yjsy.hunnu.edu.cn/index.php/cms/item-view-id-10051.shtml<br/>
+东华大学 校友会排名69<br/>
+http://yjszs.dhu.edu.cn/09/00/c7127a198912/page.htm<br/>
