@@ -5,5 +5,6 @@
 
 http://gra.hnu.edu.cn/info/1075/4434.htm  
 
-湖南师范大学预推免（211）校友会排名68
+湖南师范大学预推免（211）校友会排名68  
+
 http://yjsy.hunnu.edu.cn/index.php/cms/item-view-id-10051.shtml
