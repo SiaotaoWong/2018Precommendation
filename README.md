@@ -4,7 +4,7 @@
 <s>清华大学 校友会排名2</s><br/>
 <s>浙江大学 校友会排名3</s><br/>
 复旦大学 校友会排名4<br/>
-http://www.gsao.fudan.edu.cn/28/3f/c1659a141375/page.htm http://gsas.fudan.edu.cn/loginentry.action
+http://www.gsao.fudan.edu.cn/28/3f/c1659a141375/page.htm http://gsas.fudan.edu.cn/loginentry.action<br/>
 <s>中国人民大学 校友会排名5</s><br/>
 <s>上海交通大学 校友会排名6</s><br/>
 <s>武汉大学 校友会排名7</s><br/>
