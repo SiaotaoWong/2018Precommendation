@@ -1,7 +1,7 @@
 #2018年预推免汇总，欢迎补充<br/>
 <h2>985</h2>
 南京大学 校友会排名8<br/>
-[http://grawww.nju.edu.cn/3f/3f/c910a278335/page.htm](http://grawww.nju.edu.cn/3f/3f/c910a278335/page.htm)<br/>
+http://grawww.nju.edu.cn/3f/3f/c910a278335/page.htm<br/>
 天津大学 校友会排名13<br/>
 http://yzb.tju.edu.cn/xwzx/zxxx/201806/t20180601_307269.htm<br/>
 重庆大学 校友会排名31<br/>
