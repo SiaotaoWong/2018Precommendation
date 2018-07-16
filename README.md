@@ -29,7 +29,8 @@ http://yzb.hit.edu.cn/2018/0608/c8822a210159/page.htm<br/>
 <s>厦门大学 校友会排名21</s><br/>
 东南大学 校友会排名22<br/>
 http://yzb.seu.edu.cn/2018/0611/c6676a227688/page.htm<br/>
-<s>同济大学 校友会排名23</s><br/>
+同济大学 校友会排名23<br/>
+http://yz.tongji.edu.cn/html/zsxw/ggtz/2018/06/07/04b5360a-a8d5-4703-8f10-f8709db14100.html<br/>
 <s>北京航空航天大学 校友会排名24</s><br/>
 <s>大连理工大学 校友会排名25</s><br/>
 <s>东北大学 校友会排名26</s><br/>
