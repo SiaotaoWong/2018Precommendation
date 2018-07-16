@@ -25,7 +25,8 @@ http://graduate.nankai.edu.cn/2018/0516/c83a99148/page.htm<br/>
 哈尔滨工业大学 校友会排名18<br/>
 http://yzb.hit.edu.cn/2018/0608/c8822a210159/page.htm<br/>
 <s>北京师范大学 校友会排名19</s><br/>
-<s>山东大学 校友会排名20</s><br/>
+山东大学 校友会排名20<br/>
+http://www.yz.sdu.edu.cn/getNewsDetail.site?newsId=6c932cc5-7d84-48c1-a308-207168985841<br/>
 <s>厦门大学 校友会排名21</s><br/>
 东南大学 校友会排名22<br/>
 http://yzb.seu.edu.cn/2018/0611/c6676a227688/page.htm<br/>
