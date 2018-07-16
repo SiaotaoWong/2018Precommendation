@@ -38,7 +38,7 @@ http://yz.cqu.edu.cn/view.php?nid=1197<br/>
 <s>中国农业大学 校友会排名33</s><br/>
 <s>电子科技大学 校友会排名34</s><br/>
 湖南大学 校友会排名35<br/>
-http://gra.hnu.edu.cn/info/1075/4434.htm <br/><br/>
+http://gra.hnu.edu.cn/info/1075/4434.htm <br/>
 <s>中国海洋大学 校友会排名50</s><br/>
 <s>西北农林科技大学 校友会排名57</s><br/>
 <s>中央民族大学 校友会排名80</s><br/><br/>
