@@ -38,7 +38,8 @@ http://yzb.seu.edu.cn/2018/0611/c6676a227688/page.htm<br/>
 <s>西北工业大学 校友会排名30</s><br/>
 重庆大学 校友会排名31<br/>
 http://yz.cqu.edu.cn/view.php?nid=1197<br/>
-<s>兰州大学 校友会排名32</s><br/>
+兰州大学 校友会排名32<br/>
+http://yz.lzu.edu.cn/lzupage/2018/05/02/N20180502173820.html<br/>
 <s>中国农业大学 校友会排名33</s><br/>
 <s>电子科技大学 校友会排名34</s><br/>
 湖南大学 校友会排名35<br/>
