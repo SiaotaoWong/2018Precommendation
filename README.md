@@ -17,7 +17,8 @@ http://grawww.nju.edu.cn/3f/3f/c910a278335/page.htm<br/>
 <s>四川大学 校友会排名12</s><br/>
 天津大学 校友会排名13<br/>
 http://yzb.tju.edu.cn/xwzx/zxxx/201806/t20180601_307269.htm<br/>
-<s>南开大学 校友会排名14</s><br/>
+南开大学 校友会排名14<br/>
+http://graduate.nankai.edu.cn/2018/0516/c83a99148/page.htm<br/>
 <s>西安交通大学 校友会排名14</s><br/>
 <s>中国科学技术大学 校友会排名16</s><br/>
 <s>中南大学 校友会排名17</s><br/>
