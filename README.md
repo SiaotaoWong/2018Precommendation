@@ -50,6 +50,8 @@ http://gra.hnu.edu.cn/info/1075/4434.htm <br/>
 <s>西北农林科技大学 校友会排名57</s><br/>
 <s>中央民族大学 校友会排名80</s><br/><br/>
 <h2>211</h2>
+南京理工大学 校友会排名44<br/>
+http://gs.njust.edu.cn/zsw/b1/01/c4688a176385/page.htm<br/>
 上海大学 校友会排名55<br/>
 http://yjszs.shu.edu.cn/info/1004/3020.htm<br/>
 湖南师范大学 校友会排名68<br/>
