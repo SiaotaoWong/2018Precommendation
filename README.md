@@ -11,6 +11,7 @@ http://www.gsao.fudan.edu.cn/28/3f/c1659a141375/page.htm<br/>
 南京大学 校友会排名8<br/>
 http://grawww.nju.edu.cn/3f/3f/c910a278335/page.htm<br/>
 <s>中山大学 校友会排名9</s><br/>
+<s>国防科学技术大学 校友会排名9</s><br/>
 <s>吉林大学 校友会排名10</s><br/>
 <s>华中科技大学 校友会排名11</s><br/>
 <s>四川大学 校友会排名12</s><br/>
