@@ -1,4 +1,6 @@
 #2018年预推免汇总，欢迎补充<br/>
+<h2>中科院</h2>
+······
 <h2>985</h2>
 <s>北京大学 校友会排名1</s><br/>
 <s>清华大学 校友会排名2</s><br/>
@@ -62,8 +64,11 @@ http://yjszs.shu.edu.cn/info/1004/3020.htm<br/>
 苏州大学 校友会排名58<br/>
 http://yjs.suda.edu.cn/002/96240.jhtml<br/>
 北京邮电大学 校友会排名59<br/>
-https://yzb.bupt.edu.cn/content/content.php?p=8_4_333
+https://yzb.bupt.edu.cn/content/content.php?p=8_4_333<br/>
 湖南师范大学 校友会排名68<br/>
 http://yjsy.hunnu.edu.cn/index.php/cms/item-view-id-10051.shtml<br/>
 东华大学 校友会排名69<br/>
 http://yjszs.dhu.edu.cn/09/00/c7127a198912/page.htm<br/>
+<h2>其他</h2>
+南方科技大学<br/>
+http://gs.sustc.edu.cn/shuoshi2019/1521<br/>
