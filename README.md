@@ -77,6 +77,8 @@ http://yjsy.hunnu.edu.cn/index.php/cms/item-view-id-10051.shtml<br/>
 http://yjszs.dhu.edu.cn/09/00/c7127a198912/page.htm<br/>
 暨南大学 校友会排名74<br/>
 https://yz.jnu.edu.cn/e2/24/c699a254500/page.htm<br/>
+江南大学 校友会排名75<br/>
+http://gmis.jiangnan.edu.cn/zsgl/tmsgl/<br/>
 中国石油大学 校友会排名86<br/>
 http://gs.upc.edu.cn/_upload/article/files/25/c9/c396f32a448fa61f5ce0bb51bbea/7e5fd207-1f43-4639-8894-ade2039c4a1b.pdf<br/>
 西南财经大学 校友会排名94<br/>
