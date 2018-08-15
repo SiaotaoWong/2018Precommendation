@@ -2,10 +2,11 @@
 <h2>中科院</h2>
 ······
 <h2>985</h2>
-<a href="https://blog.fbzl.org/" target="_blank">我的博客</a>
+
+<a href="http://blog.csdn.net/qq_39422642" target="_blank">跳到自己博客列表</a>
+跳到自己博客列表：<a href="http://blog.csdn.net/qq_39422642" target="_blank">http://blog.csdn.net/qq_39422642</a>
 <s>北京大学 校友会排名1</s><br/>
 <s>清华大学 校友会排名2</s><br/>
-[在 Markdown 中设置链接由新窗口打开](http://www.jianshu.com/p/8abc34b6a190?_blank)
 浙江大学 校友会排名3<br/>
 <a href="http://grs.zju.edu.cn/redir.php?catalog_id=17233&object_id=130413" target="_blank">浙江大学 校友会排名3</a><br/>
 复旦大学 校友会排名4<br/>
