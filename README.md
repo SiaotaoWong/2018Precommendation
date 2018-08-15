@@ -78,3 +78,10 @@ http://yz.swufe.edu.cn/web/2018-07/25/201807251628184282.html<br/>
 <h2>其他</h2>
 南方科技大学<br/>
 http://gs.sustc.edu.cn/shuoshi2019/1521<br/>
+<script>
+var aTagArr = [].slice.apply(document.getElementsByTagName("a"));
+
+aTagArr.forEach(function (e, i) {
+  e.href.indexOf("_blank") > -1 ? e.target = "_blank" : null;
+});
+</script>
