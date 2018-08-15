@@ -2,6 +2,7 @@
 <h2>中科院</h2>
 ······
 <h2>985</h2>
+<a href="https://blog.fbzl.org/" target="_blank">我的博客</a>
 <s>北京大学 校友会排名1</s><br/>
 <s>清华大学 校友会排名2</s><br/>
 [在 Markdown 中设置链接由新窗口打开](http://www.jianshu.com/p/8abc34b6a190?_blank)
