@@ -3,8 +3,8 @@
 ······
 <h2>985</h2>
 
-<a href="http://blog.csdn.net/qq_39422642" target="_blank">跳到自己博客列表</a>
-跳到自己博客列表：<a href="http://blog.csdn.net/qq_39422642" target="_blank">http://blog.csdn.net/qq_39422642</a>
+<a href="http://write.blog.csdn.net/postlist" target="_blank">跳到自己博客列表</a>
+跳到自己博客列表：<a href="http://write.blog.csdn.net/postlist" target="_blank">http://write.blog.csdn.net/postlist</a>
 <s>北京大学 校友会排名1</s><br/>
 <s>清华大学 校友会排名2</s><br/>
 浙江大学 校友会排名3<br/>
