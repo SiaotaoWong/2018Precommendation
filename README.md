@@ -34,9 +34,12 @@ http://yzb.seu.edu.cn/2018/0611/c6676a227688/page.htm<br/>
 同济大学 校友会排名23<br/>
 http://yz.tongji.edu.cn/html/zsxw/ggtz/2018/06/07/04b5360a-a8d5-4703-8f10-f8709db14100.html<br/>
 <s>北京航空航天大学 校友会排名24</s><br/>
-<s>大连理工大学 校友会排名25</s><br/>
-<s>东北大学 校友会排名26</s><br/>
-<s>华南理工大学 校友会排名26</s><br/>
+大连理工大学 校友会排名25<br/>
+http://gs.dlut.edu.cn/info/1088/16019.htm<br/>
+东北大学 校友会排名26<br/>
+http://www.graduate.neu.edu.cn/dongda/tjms/39245.jhtml<br/>
+华南理工大学 校友会排名26<br/>
+http://admission.scut.edu.cn/Master/M_recruit/1ckkjv14it92u.xhtml<br/>
 <s>华东师范大学 校友会排名28</s><br/>
 <s>北京理工大学 校友会排名29</s><br/>
 <s>西北工业大学 校友会排名30</s><br/>
