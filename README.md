@@ -70,6 +70,8 @@ https://yzb.bupt.edu.cn/content/content.php?p=8_4_333<br/>
 http://yjsy.hunnu.edu.cn/index.php/cms/item-view-id-10051.shtml<br/>
 东华大学 校友会排名69<br/>
 http://yjszs.dhu.edu.cn/09/00/c7127a198912/page.htm<br/>
+西南财经大学 校友会排名94<br/>
+http://yz.swufe.edu.cn/web/2018-07/25/201807251628184282.html<br/>
 <h2>其他</h2>
 南方科技大学<br/>
 http://gs.sustc.edu.cn/shuoshi2019/1521<br/>
