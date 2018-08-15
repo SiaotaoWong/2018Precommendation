@@ -71,6 +71,8 @@ http://yjs.suda.edu.cn/002/96240.jhtml<br/>
 https://yzb.bupt.edu.cn/content/content.php?p=8_4_333<br/>
 哈尔滨工程大学 校友会排名65<br/>
 http://yzb.hrbeu.edu.cn/2018/0605/c3262a190893/page.htm<br/>
+合肥工业大学 校友会排名65<br/>
+http://yjszs.hfut.edu.cn/pub/content.jsp?newsId=23ea7fc1-3220-4f76-aa9d-a027fb81557b<br/>
 湖南师范大学 校友会排名68<br/>
 http://yjsy.hunnu.edu.cn/index.php/cms/item-view-id-10051.shtml<br/>
 东华大学 校友会排名69<br/>
@@ -79,6 +81,8 @@ http://yjszs.dhu.edu.cn/09/00/c7127a198912/page.htm<br/>
 https://yz.jnu.edu.cn/e2/24/c699a254500/page.htm<br/>
 江南大学 校友会排名75<br/>
 http://gmis.jiangnan.edu.cn/zsgl/tmsgl/<br/>
+福州大学 校友会排名81<br/>
+http://yjsy.fzu.edu.cn/html/tzgg/2018/07/15/b37af4c6-522a-4feb-ad6c-0f746014a6b3.html<br/>
 中国石油大学 校友会排名86<br/>
 http://gs.upc.edu.cn/_upload/article/files/25/c9/c396f32a448fa61f5ce0bb51bbea/7e5fd207-1f43-4639-8894-ade2039c4a1b.pdf<br/>
 西南财经大学 校友会排名94<br/>
