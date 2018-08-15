@@ -61,6 +61,8 @@ http://gs.njust.edu.cn/zsw/b1/01/c4688a176385/page.htm<br/>
 http://yjszs.shu.edu.cn/info/1004/3020.htm<br/>
 苏州大学 校友会排名58<br/>
 http://yjs.suda.edu.cn/002/96240.jhtml<br/>
+北京邮电大学 校友会排名59<br/>
+https://yzb.bupt.edu.cn/content/content.php?p=8_4_333
 湖南师范大学 校友会排名68<br/>
 http://yjsy.hunnu.edu.cn/index.php/cms/item-view-id-10051.shtml<br/>
 东华大学 校友会排名69<br/>
