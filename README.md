@@ -24,7 +24,8 @@ http://yzb.tju.edu.cn/xwzx/zxxx/201806/t20180601_307269.htm<br/>
 http://graduate.nankai.edu.cn/2018/0516/c83a99148/page.htm<br/>
 <s>西安交通大学 校友会排名14</s><br/>
 <s>中国科学技术大学 校友会排名16</s><br/>
-<s>中南大学 校友会排名17</s><br/>
+中南大学 校友会排名17<br/>
+http://gra.csu.edu.cn/yjsy/pygl/wjtzxq76373_1_2.html<br/>
 哈尔滨工业大学 校友会排名18<br/>
 http://yzb.hit.edu.cn/2018/0608/c8822a210159/page.htm<br/>
 <s>北京师范大学 校友会排名19</s><br/>
