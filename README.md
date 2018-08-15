@@ -4,6 +4,7 @@
 <h2>985</h2>
 <s>北京大学 校友会排名1</s><br/>
 <s>清华大学 校友会排名2</s><br/>
+[在 Markdown 中设置链接由新窗口打开](http://www.jianshu.com/p/8abc34b6a190)
 浙江大学 校友会排名3<br/>
 <a href="http://grs.zju.edu.cn/redir.php?catalog_id=17233&object_id=130413" target="_blank">浙江大学 校友会排名3</a><br/>
 复旦大学 校友会排名4<br/>
