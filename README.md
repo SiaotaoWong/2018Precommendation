@@ -50,7 +50,8 @@ http://admission.scut.edu.cn/Master/M_recruit/1ckkjv14it92u.xhtml<br/>
 http://yz.cqu.edu.cn/view.php?nid=1197<br/>
 兰州大学 校友会排名32<br/>
 http://yz.lzu.edu.cn/lzupage/2018/05/02/N20180502173820.html<br/>
-<s>中国农业大学 校友会排名33</s><br/>
+中国农业大学 校友会排名33<br/>
+http://gradsch.cau.edu.cn/homepage/infoSingleArticle.do?articleId=4023<br/>
 <s>电子科技大学 校友会排名34</s><br/>
 湖南大学 校友会排名35<br/>
 http://gra.hnu.edu.cn/info/1075/4434.htm <br/>
