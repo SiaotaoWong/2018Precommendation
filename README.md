@@ -60,6 +60,8 @@ http://gra.hnu.edu.cn/info/1075/4434.htm <br/>
 <h2>211</h2>
 南京理工大学 校友会排名44<br/>
 http://gs.njust.edu.cn/zsw/b1/01/c4688a176385/page.htm<br/>
+北京科技大学 校友会排名47<br/>
+http://yzxc.ustb.edu.cn/zsjz/sszs1/5807.htm<br/>
 上海大学 校友会排名55<br/>
 http://yjszs.shu.edu.cn/info/1004/3020.htm<br/>
 苏州大学 校友会排名58<br/>
