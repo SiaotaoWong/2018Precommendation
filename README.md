@@ -83,6 +83,8 @@ http://gmis.jiangnan.edu.cn/zsgl/tmsgl/<br/>
 http://gs.upc.edu.cn/_upload/article/files/25/c9/c396f32a448fa61f5ce0bb51bbea/7e5fd207-1f43-4639-8894-ade2039c4a1b.pdf<br/>
 西南财经大学 校友会排名94<br/>
 http://yz.swufe.edu.cn/web/2018-07/25/201807251628184282.html<br/>
+河北工业大学大学 校友会排名149<br/>
+http://yjs.hebut.edu.cn/zsgz/zzsszszl/zswj3/69308.htm<br/>
 <h2>其他</h2>
 南方科技大学<br/>
 http://gs.sustc.edu.cn/shuoshi2019/1521<br/>
